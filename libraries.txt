@@ -1,0 +1,9 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+ThingSpeak
+BlynkESP32_BT_WF
+Blynk
+LiquidCrystal I2C
+DHT sensor library
+PIR
+Blynk_WiFiManager
